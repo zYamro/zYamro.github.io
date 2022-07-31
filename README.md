@@ -5,18 +5,18 @@
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>思科 anyconnect vpn | BaeAshuai.github.io</title>
+<title>Climb Over the Wall VPN | zYamro.github.io</title>
 <meta name="generator" content="Jekyll v3.9.2" />
-<meta property="og:title" content="思科 anyconnect vpn" />
+<meta property="og:title" content="Climb Over the Wall VPN" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://baeashuai.github.io/" />
+<link rel="canonical" href="https://zYamro.github.io/" />
 <meta property="og:url" content="https://baeashuai.github.io/" />
 <meta property="og:site_name" content="BaeAshuai.github.io" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="思科 anyconnect vpn" />
+<meta property="twitter:title" content="COW VPN" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"思科 anyconnect vpn","name":"BaeAshuai.github.io","url":"https://baeashuai.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"Climb Over the Wall VPN","name":"BaeAshuai.github.io","url":"https://zYamro.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -41,14 +41,14 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">思科 anyconnect vpn</h1>
+      <h1 class="project-name">Climb Over the Wall VPN</h1>
       <h2 class="project-tagline"></h2>
       
       
     </header>
 
     <main id="content" class="main-content" role="main">
-      <h2 id="思科-anyconnect-vpn">思科 anyconnect vpn</h2>
+      <h2 id="Climb Over the Wall VPN">Climb Over the Wall VPN</h2>
 
 <p>思科 anyconnect vpn是思科公司使用虚拟局域网技术开发的一款可以翻墙的网络通信软件，此软件安全可靠网速快支持2k视频播放，同一账户同时支持五个设备登录使用，支持安卓 ios，win mac linux全平台 翻墙专用梯子
 价格30元/150天，全网最低
